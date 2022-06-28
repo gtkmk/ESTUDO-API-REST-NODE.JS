@@ -1,0 +1,19 @@
+{
+  "name": "password",
+  "version": "1.0.0",
+  "description": "Gerenciador de senhas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "node",
+    "nodejs"
+  ],
+  "author": "Davi Augusto Freitas de Azevedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
